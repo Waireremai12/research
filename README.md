@@ -3,7 +3,7 @@ game development
 
 .what is python?
 
-.what is it got to do with game delvelopment?
+.what is it got to do with game development?
 
 .what are the pros & cons of using python?
 
@@ -12,7 +12,10 @@ game development
 
 Some qustions i was asking myself in my head the first time i heard of python. Programming language what is that?
 one of many different programning languages. "How many are there i ask myself". Like the average person would do
-"siri what is python" or most people google search.
+"siri what is python" or most people google search. After some time researching these questions i was asking myself i had a better ideal 
+and understanding about python & game development. As python being a good beginner programning language for game development sparked an 
+ideal for my project programming a game in python.
+
 
 
 What is Python?
@@ -88,6 +91,12 @@ Python’s Memory Consumption and Garbage Collection
 Python is Dynamically Typed
 
 Multithreading in Python 
+
+
+Why choose python?
+
+Python is good For beginner game developers taking their first steps into game-making. 
+
 
 
 
