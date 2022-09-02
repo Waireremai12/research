@@ -97,6 +97,32 @@ Why choose python?
 
 Python is good For beginner game developers taking their first steps into game-making. 
 
+What are of you proud of up to this point in the course?
+
+
+At the beginning of the course i had no clue about programming languages what it is, what its used for was completely blank.
+i am proud that i have a better understanding and knowledge about what we are learning about. Also more respect to 
+people who work in this industry knowing how much work and thought going into .
+
+
+ What programming languages are you interested in learning? Why?
+ 
+ I am wanting to learn more about CSS (Cascading Style Sheets) I had so many problens when i was creating my website using CSS writing the codes 
+ for images to background  colours and none of the coding was working became frustrating.
+ 
+ 
+ If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+ 
+ 
+ Stay focused on the the course you are not good at multi tasking you can not do two things at once. Stop 
+ telling yourself you can because you can't. 
+
+
+Have you developed a habit of exploring?
+
+In the form of habit of exploring
+
+
 
 
 
